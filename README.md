@@ -1,4 +1,4 @@
-# Smatt Eye - Multilingual Image Description with Raspberry Pi
+# Smart Eye - Multilingual Image Description with Raspberry Pi
 
 ## Overview
 
